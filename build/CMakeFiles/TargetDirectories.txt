@@ -1,0 +1,3 @@
+/Users/Claudio/Google Drive/Projects/Model_Predictive_Control/build/CMakeFiles/rebuild_cache.dir
+/Users/Claudio/Google Drive/Projects/Model_Predictive_Control/build/CMakeFiles/edit_cache.dir
+/Users/Claudio/Google Drive/Projects/Model_Predictive_Control/build/CMakeFiles/mpc.dir
